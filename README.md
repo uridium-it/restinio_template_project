@@ -1,4 +1,4 @@
-# restinio_template_project
+# RESTinio template project
 very basic template to start experimenting with Restinio library
 
 Use Framework project (https://github.com/uridium-it/Framework) to download all the necessary dependencies:
